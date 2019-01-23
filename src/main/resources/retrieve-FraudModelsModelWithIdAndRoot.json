@@ -1,0 +1,12 @@
+{
+  "fraudModelModelReference" : "FMR772612",
+  "fraudModelPortfolioRecord" : {},
+  "fraudModelModel" : "fraudModelModel",
+  "fraudModelModelImpact" : "fraudModelModelImpact",
+  "fraudModelModelPurpose" : "fraudModelModelPurpose",
+  "fraudModelModelUsage" : "fraudModelModelUsage",
+  "fraudModelModelType" : "fraudModelModelType",
+  "fraudModelModelStatus" : "suspended",
+  "fraudModelModelBudget" : "fraudModelModelBudget",
+  "fraudModelModelVersion" : "fraudModelModelVersion"
+}

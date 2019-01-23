@@ -1,0 +1,11 @@
+{
+  "fraudModelModelReference" : "FMMR773227",
+  "fraudModelModelTestReference" : "FMMTR747177",
+  "fraudModelModel" : "fraudModelModel",
+  "fraudModelModelTestResult" : "fraudModelModelTestResult",
+  "fraudModelModelTestingTaskRecord" : {},
+  "fraudModelModelTestHarnessReference" : "FMMTHR728981",
+  "fraudModelModelTestType" : "fraudModelModelTestType",
+  "fraudModelModelTestingTaskReference" : "FMMTTR725964",
+  "fraudModelModelType" : "fraudModelModelType"
+}

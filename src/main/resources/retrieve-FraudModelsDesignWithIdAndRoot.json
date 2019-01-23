@@ -1,0 +1,18 @@
+{
+  "fraudModelModelReference" : "FMMR773227",
+  "fraudModelModelDesignTaskRecord" : {},
+  "fraudModelModel" : "fraudModelModel",
+  "fraudModelModelAllowedUsage" : "fraudModelModelAllowedUsage",
+  "customerMarketDataReference" : "CDR790746",
+  "fraudModelModelSpecification" : "fraudModelModelSpecification",
+  "productServiceActivityReportReference" : "PARR721644",
+  "fraudModelModelType" : "fraudModelModelType",
+  "fraudModelModelFeedbackRecord" : {},
+  "fraudModelModelOperationalRequirements" : "fraudModelModelOperationalRequirements",
+  "fraudModelModelDesignTaskReference" : "FMMDTR756034",
+  "fraudModelModelImpact" : "fraudModelModelImpact",
+  "fraudModelModelUsage" : "fraudModelModelUsage",
+  "fraudModelModelUsageGuidelines" : "fraudModelModelUsageGuidelines",
+  "customerMarketDataServiceReference" : "CDSR715154",
+  "productServiceActivityReport" : {}
+}

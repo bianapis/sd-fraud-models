@@ -1,0 +1,10 @@
+{
+  "fraudModelModelReference" : "FMMR773227",
+  "fraudModelModel" : "fraudModelModel",
+  "complianceTestType" : "complianceTestType",
+  "fraudModelModelComplianceTaskReference" : "FMMCTR715433",
+  "complianceTestReference" : "FMMCTR715433",
+  "fraudModelModelComplianceTaskRecord" : {},
+  "complianceTestResult" : "complianceTestResult",
+  "fraudModelModelType" : "fraudModelModelType"
+}

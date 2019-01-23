@@ -1,0 +1,11 @@
+{
+  "fraudModelModelReference" : "FMMR773227",
+  "employeeBusinessUnitReference" : "ER769585",
+  "fraudModelModel" : "fraudModelModel",
+  "fraudModelModelDeploymentTaskReference" : "FMMDTR756034",
+  "fraudModelModelUsage" : "fraudModelModelUsage",
+  "fraudModelModelDeploymentStatus" : "fraudModelModelDeploymentStatus",
+  "fraudModelModelDeploymentTaskResult" : "fraudModelModelDeploymentTaskResult",
+  "fraudModelModelDeploymentTaskRecord" : {},
+  "fraudModelModelVersion" : "fraudModelModelVersion"
+}

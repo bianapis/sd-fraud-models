@@ -1,0 +1,14 @@
+{
+  "fraudModelModelReference" : "FMMR773227",
+  "fraudModelModel" : "fraudModelModel",
+  "fraudModelModelDevelopmentTaskBudget" : "fraudModelModelDevelopmentTaskBudget",
+  "fraudModelModelDevelopmentTaskDeliverable" : "fraudModelModelDevelopmentTaskDeliverable",
+  "fraudModelModelImplementationTaskRecord" : {},
+  "fraudModelModelDevelopmentTaskReference" : "FMMDTR756034",
+  "fraudModelModelDevelopmentTaskDescription" : "fraudModelModelDevelopmentTaskDescription",
+  "fraudModelModelDevelopmentTaskStatus" : "fraudModelModelDevelopmentTaskStatus",
+  "fraudModelModelDevelopmentTaskOrganization" : "fraudModelModelDevelopmentTaskOrganization",
+  "fraudModelModelImplementationTaskReference" : "FMMITR768246",
+  "fraudModelModelType" : "fraudModelModelType",
+  "fraudModelModelStatus" : "suspended"
+}
